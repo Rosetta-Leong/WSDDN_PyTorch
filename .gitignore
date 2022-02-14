@@ -1,0 +1,8 @@
+data/*
+!data/.gitkeep
+result/*
+!result/.gitkeep
+tensorboard/*
+!tensorboard/.gitkeep
+weight/*
+!weight/.gitkeep
